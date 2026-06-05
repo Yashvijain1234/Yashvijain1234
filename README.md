@@ -101,28 +101,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashvijain1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvijain1234&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yashvijain1234&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
-</p>
-
----
-
-## LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/UnlockingTricky?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
----
-
 ## Let's Connect
 
 <p align="center">
