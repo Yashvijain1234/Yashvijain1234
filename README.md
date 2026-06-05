@@ -16,19 +16,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Electrical Engineering student at **MNIT Jaipur** (2024–2028) · CGPA: **7.66**
-- 🚀 Passionate about building clean, user-friendly web applications
-- 💡 Cracked **JEE Mains with 98.64 percentile** — proof that hard work pays off
-- 🏆 **2nd place** at a college hackathon for building a productivity browser extension for LeetCode users
-- 🧩 Solved **230+ problems on LeetCode** (max rating: 1484) — sharpening DSA every day
-- 🌱 Currently building full-stack projects and exploring backend development
-- 🎯 Goal: Land a **Full Stack Developer** role at a great tech company
+-  B.Tech Electrical Engineering student at **MNIT Jaipur** (2024–2028) · CGPA: **7.66**
+-  Passionate about building clean, user-friendly web applications
+-  Cracked **JEE Mains with 98.64 percentile** — proof that hard work pays off
+-  **2nd place** at a college hackathon for building a productivity browser extension for LeetCode users
+-  Solved **288+ problems on LeetCode** · Contest Rating **1,404** · Max streak **43 days** 🔥
+-  Currently building full-stack projects and exploring backend development
+-  Goal: Land a **Full Stack Developer** role at a great tech company
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -57,9 +57,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤝 [HackMate](https://github.com/Yashvijain1234)
+### [HackMate](https://github.com/Yashvijain1234)
 > A full-stack platform to help developers find and complete hackathon teams
 
 - Built with **React** — dynamic UI components for team discovery and collaboration
@@ -69,7 +69,7 @@
 
 ---
 
-### ✅ [Todo Web Application](https://github.com/Yashvijain1234)
+### [Todo Web Application](https://github.com/Yashvijain1234)
 > A dynamic task management app built with React
 
 - Full **CRUD functionality** — add, edit, delete, and manage tasks in real time
@@ -78,7 +78,7 @@
 
 ---
 
-### 🧮 [React Calculator](https://github.com/Yashvijain1234)
+### [React Calculator](https://github.com/Yashvijain1234)
 > A responsive calculator app built to strengthen React fundamentals
 
 - Real-time arithmetic operations with **useState** for state management
@@ -87,31 +87,35 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements & Stats
 
-| 🥇 Achievement | Details |
+| Achievement | Details |
 |---|---|
-| 🎯 JEE Mains | **98.64 Percentile** — top engineering entrance exam in India |
-| 🏅 Hackathon | **2nd Place** — college-level hackathon for a LeetCode browser extension |
-| 💻 LeetCode | **230+ problems solved** · Max rating **1484** |
+| JEE Mains | **98.64 Percentile** — top engineering entrance exam in India |
+| Hackathon | **2nd Place** — college-level hackathon for a LeetCode browser extension |
+| LeetCode Solved | **288 problems** — 101 Easy · 163 Medium · 24 Hard |
+| Contest Rating | **1,404** (peaked at **1,514**) |
+| Global Ranking | **737,286** out of 874,213 users |
+| Max Streak | **43 days** · 142 total active days · 483 submissions/year |
+| Badge | **50 Days Badge 2026** |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashvijain1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashvijain1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub Stats"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvijain1234&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashvijain1234&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Yashvijain1234&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📈 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/UnlockingTricky?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
@@ -119,7 +123,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   I'm always open to exciting projects, internship opportunities, and tech conversations!<br/><br/>
@@ -136,6 +140,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yashvijain1234&style=flat-square&color=6C48C5" alt="Profile Views"/>
-  <br/>
+  <br/><br/>
   <i>"Consistency beats talent when talent doesn't work consistently."</i>
 </p>
