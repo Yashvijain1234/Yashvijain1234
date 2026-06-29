@@ -134,28 +134,11 @@ class YashviJain:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashvijain1234&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Yashvijain1234&theme=radical&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvijain1234&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/UnlockingTricky?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
-
 ## 💌 Let's Connect
 
 <p align="center">
   I'm always open to exciting projects, internship opportunities, and tech conversations! ✨<br/><br/>
-  <a href="https://linkedin.com/in/yashvi-jain">
+  <a href="https://www.linkedin.com/in/yashvi-jain-35a290339/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
